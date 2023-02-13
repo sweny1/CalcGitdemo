@@ -6,6 +6,7 @@ public class PerformCalculation {
 
 	public static void main(String[] args) {
 		
+		
         Scanner inputScanner = new Scanner(System.in);				
 		String operator = "";
 		int numb1 = 0, numb2 = 0;
